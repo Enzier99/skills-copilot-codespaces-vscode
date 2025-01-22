@@ -13,7 +13,7 @@ var connection = mysql.createConnection({
     host: 'localhost',
     user: 'root',
     password: '',
-    database: 'comments'
+    database: 'comments' // do something 
 });
 
 // connect to mysql
